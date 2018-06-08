@@ -3,4 +3,8 @@
     <string name="username_hint">Username</string>
     <string name="password_hint">Password</string>
     <string name="submit">Submit</string>
+    <string name="terrier">Terrier</string>
+    <string name="spaniel">Spaniel</string>
+    <string name="retriever">Retriever</string>
+    <string name="poodle">Poodle</string>
 </resources>
